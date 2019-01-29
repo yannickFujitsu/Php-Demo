@@ -1,5 +1,4 @@
 <?php
 $myhostname = gethostname();
-echo "Current Host:" . $myhostname . ;
-//phpinfo();
+echo "Current Host:" $myhostname
 ?>
