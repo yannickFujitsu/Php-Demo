@@ -1,1 +1,1 @@
- <?php echo podname: gethostname(); //return current running hostname ?>
+ <?php echo podname gethostname(); //return current running hostname ?>
