@@ -1,9 +1,7 @@
 <?php
 $myhostname = gethostname();
-<<<<<<< HEAD
-echo "My Current Host: " . $myhostname;
+echo "My Current Host: " . $myhostname ;
 =======
 echo "My Current Host: " . $myhostname ;
->>>>>>> parent of 9a8e458... Update index.php
+>>>>>>> 27929aa0f8588d75c32a8e9f6cb43532f49d8bac
 ?>
-
