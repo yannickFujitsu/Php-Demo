@@ -1,3 +1,4 @@
 <?php
-echo "my hostname is: " gethostname();
+echo gethostname();
+echo "<br>";
 ?>
