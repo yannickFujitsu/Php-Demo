@@ -1,6 +1,6 @@
 <?php
 echo "My HostName: " . gethostname(); 
-echo "\n";
+echo "<br/>";
 echo "PHP Version: " . phpversion(); 
-echo "\n";
+echo "<br/>";
 ?>
